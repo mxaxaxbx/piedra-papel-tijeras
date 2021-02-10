@@ -46,3 +46,4 @@ if p1win == True:
 
 else:
     print(f"Since You chose {p2choice_name} and Opponent chose {p1choice_name}, You Win!")
+    
